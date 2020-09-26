@@ -1,16 +1,20 @@
-### Hi there 👋
+## Quien soy
 
-<!--
-**MigleMiglas/MigleMiglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Miguel; Soy un ingeniero de obras públicas, músico de estudio y monitor de patinaje (Perfil Multitask)
 
-Here are some ideas to get you started:
+**Motivos**
+Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir creando cosas funcionales y bonitas (a ser posible)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies
+* Baloncesto
+* Patinaje 
+* Ilustración
+* Cine
+
+
+<img src="C:\Users\Migle\desktop\ejercicios2\MigleMiglas\assets\InShot_20180826_141324135.jpg" alt="Dibujin">
+
+<a href="https://www.shapeways.com/product/W6EDCCFUR/human-crab-table?optionId=121906198&li=shop-inventory>">Modelado en 3D<
+
+<a href="https://open.spotify.com/artist/72O7A8lThFEDRGqJYkPlAH">Música<
+
