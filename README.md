@@ -1,9 +1,9 @@
-## Quien soy
+    ## Quien soy
 
-Me llamo Miguel; Soy un ingeniero de obras públicas, músico de estudio y monitor de patinaje (Perfil Multitask)
+    Me llamo Miguel; Soy un ingeniero de obras públicas, músico de estudio y monitor de patinaje (Perfil Multitask)
 
-**Motivos**
-Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir creando cosas funcionales y bonitas (a ser posible)
+    **Motivos**
+    Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir creando cosas funcionales y bonitas (a ser posible)
 
 ### Hobbies
 * Baloncesto
