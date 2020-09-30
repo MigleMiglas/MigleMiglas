@@ -14,13 +14,7 @@ Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir c
 * Comics/Libros
 
 
-<img src="assets\InShot_20180826_141324135.jpg" width=200px alt="Olas Guitar">
-
 <img src="assets\Biomecanica DRACULA sintexto low (1).jpg" width=200px alt="Biomecanica">
-
-
-
-
 
 <a href="https://www.instagram.com/p/B19chEHiL8Z">Modelado en 3D
 
