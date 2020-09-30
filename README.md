@@ -11,12 +11,11 @@ Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir c
 * Ilustración
 * Cine
 * Escultura
-
+* Comics/Libros
 
 
 <img src="assets\InShot_20180826_141324135.jpg" width=200px alt="Olas Guitar">
 
-(https://www.instagram.com/p/B19chEHiL8Z) [Modelado en 3D]
 
 <a href="https://www.instagram.com/p/B19chEHiL8Z">Modelado en 3D
 
