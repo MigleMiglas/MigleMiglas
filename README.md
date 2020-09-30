@@ -13,11 +13,12 @@ Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir c
 * Escultura
 
 
-![Apunta una más](C:\Users\Migle\Desktop\ejercicios2\MigleMiglas\assets\InShot_20180826_141324135.jpg "Olas guitar")
 
-<img src="assets\InShot_20180826_141324135.jpg" width=60px alt="olas Guitar">
+<img src="assets\InShot_20180826_141324135.jpg" width=200px alt="Olas Guitar">
 
 (https://www.instagram.com/p/B19chEHiL8Z) [Modelado en 3D]
+
+<a href="https://www.instagram.com/p/B19chEHiL8Z">Modelado en 3D
 
 <a href="https://open.spotify.com/artist/72O7A8lThFEDRGqJYkPlAH">Música en Spotify
   
@@ -26,6 +27,3 @@ Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir c
   
 
 
-<img src="‪C:\Users\Migle\Desktop\mesa.png" alt="Mesa cangrejo">
-
-<a href=https://www.instagram.com/p/B19chEHiL8Z/">Modelado en 3D<'
