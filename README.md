@@ -22,7 +22,7 @@ Estoy en el bootcamp para reinventarme por cuarta vez. La intención es seguir c
   
   
   
-<img src="assets\InShot_20180826_141324135.jpg" alt="Dibujin">
+
 
 <img src="‪C:\Users\Migle\Desktop\mesa.png" alt="Mesa cangrejo">
 
